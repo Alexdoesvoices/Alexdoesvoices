@@ -27,5 +27,4 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AlexRobinson2005)<p><a href="https://ko-fi.com/Alexdoesvoices"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Alexdoesvoices" /></a></p><br><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexdoesvoices&show_icons=true&locale=en" alt="alexdoesvoices" /></p>
 
