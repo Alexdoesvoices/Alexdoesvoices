@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdoesvoices&label=Profile%20views&color=0e75b6&style=flat" alt="alexdoesvoices" /> </p>
 
 - My Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)
-
+  
+- 🌱 I’m currently learning **Ember**
+  
 - 📫 How to reach me **alexdoesvoices05@gmail.com**
 
 - ⚡ Fun fact **Really good at Trivia**
-
-- Currently Learning EmberJs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
