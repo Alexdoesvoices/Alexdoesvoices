@@ -5,7 +5,7 @@
 
 - My Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)
 
-- 🌱 I’m currently learning **Ember**
+- 🌱 I’m currently learning **Ember!**
 
 - 📫 How to reach me **alexdoesvoices05@gmail.com**
 
