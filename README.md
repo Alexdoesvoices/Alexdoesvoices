@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ember!**
 
-<!-- - 📫 How to reach me **alexdoesvoices05@gmail.com** -->
+- 📫 How to reach me **You dont** 
 
 - ⚡ Fun fact **Really good at Trivia**
 
