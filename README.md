@@ -5,11 +5,11 @@
 
 - My Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)
 
-- 🌱 I’m currently learning **Ember!**
+- 🌱 I’m currently learning: **Ember!**
 
-- 📫 How to reach me **You dont.** 
+- 📫 How to reach me: **You dont.** 
 
-- ⚡ Fun fact **Really good at Trivia**
+- ⚡ Fun fact: **Really good at Trivia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
