@@ -5,7 +5,7 @@
 
 - My Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)
 
-- 🌱 I’m currently Tinkering with: **Vue!**
+- 🌱 I’m currently tinkering with: **Vue!**
 
 - 📫 How to reach me: **You dont.** 
 
