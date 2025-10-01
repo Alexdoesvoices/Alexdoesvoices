@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdoesvoices&label=Profile%20views&color=0e75b6&style=flat" alt="alexdoesvoices" /> </p>
 
-- Website V3 out now: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)  
+- Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)  
 
 - 🌱 I’m currently tinkering with: **Vuejs!**
 
