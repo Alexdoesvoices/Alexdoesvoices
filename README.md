@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently tinkering with: **Vuejs!**
 
-- 📫 How to reach me: **You dont.** 
+- 📫 How to reach me: **contact@alexdoesvoices.com** 
 
 - ⚡ Fun fact: **Really good at Trivia**
 
