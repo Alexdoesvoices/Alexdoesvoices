@@ -5,7 +5,9 @@
 
 - Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)  
 
-- 🌱 I’m currently tinkering with: **Vuejs!**
+- Current Project: **PC reset incoming.**
+
+<!-- - 🌱 I’m currently tinkering with: **Vuejs!** -->
 
 - 📫 How to reach me: **contact@alexdoesvoices.com** 
 
