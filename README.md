@@ -5,7 +5,7 @@
 
 - Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)  
 
-- Equipment: [https://alexdoesvoices.com/p/equipment.html](Alexdoesvoices Equipment.)
+- Equipment: [https://alexdoesvoices.com/p/equipment.html/](Alexdoesvoices Equipment.)
 
 - Current Project: **PC reset incoming.**
 
