@@ -5,6 +5,8 @@
 
 - Website: [https://alexdoesvoices.com/](https://alexdoesvoices.com/)  
 
+- Equipment: [https://alexdoesvoices.com/p/equipment.html](Alexdoesvoices Equipment.)
+
 - Current Project: **PC reset incoming.**
 
 <!-- - 🌱 I’m currently tinkering with: **Vuejs!** -->
