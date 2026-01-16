@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Alexander</h1>
-<h3 align="center">Comptia A+ 1201 passed!!!</h3>
+<!-- <h3 align="center">Comptia A+ 1201 passed!!!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdoesvoices&label=Profile%20views&color=0e75b6&style=flat" alt="alexdoesvoices" /> </p>
 
