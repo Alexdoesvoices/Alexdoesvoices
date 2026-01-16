@@ -7,7 +7,7 @@
 
 - Equipment: [https://alexdoesvoices.com/p/equipment.html](https://alexdoesvoices.com/p/equipment.html)
 
-- Current Project: **PC reset incoming.**
+<!-- - Current Project: **PC reset incoming.** -->
 
 <!-- - 🌱 I’m currently tinkering with: **Vuejs!** -->
 
