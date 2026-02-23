@@ -28,7 +28,7 @@
 
 <h3 align="left">Support:</h3>
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AlexRobinson2005)<p><a href="https://ko-fi.com/Alexdoesvoices"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Alexdoesvoices" /></a></p><br><br><br>
+<!-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AlexRobinson2005)<p><a href="https://ko-fi.com/Alexdoesvoices"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Alexdoesvoices" /></a></p><br><br><br> -->
 
 
 
