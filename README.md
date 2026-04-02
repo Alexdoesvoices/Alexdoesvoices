@@ -9,7 +9,7 @@
 
 <!-- - Current Project: **PC reset incoming.** -->
 
-<!-- - 🌱 I’m currently tinkering with: **Vuejs!** -->
+- 🌱 I’m currently tinkering with: **SvelteKit!** 
 
 <!-- - 📫 How to reach me: **contact@alexdoesvoices.com**  -->
 
