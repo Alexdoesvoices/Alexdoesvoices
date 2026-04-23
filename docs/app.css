@@ -1,0 +1,8 @@
+:root {
+    --background_color: #1c1b22;
+    --heading_color: azure;
+}
+body {
+    background-color: var(--background_color);
+    color: var(--heading_color);
+}
