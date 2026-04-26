@@ -6,3 +6,9 @@ body {
     background-color: var(--background_color);
     color: var(--heading_color);
 }
+a {
+    color: var(--heading_color);
+}
+a:hover {
+    color: royalblue;
+}
