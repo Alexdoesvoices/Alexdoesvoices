@@ -11,8 +11,8 @@
 ## Projects:
 
 
-## Links: 
-
-* [Website](http://alexrrobinson.com)
-
-* [Portfolio](http://portfolio.alexrrobinson.com)
+<!-- ## Links:  -->
+<!--  -->
+<!-- * [Website](http://alexrrobinson.com) -->
+<!--  -->
+<!-- * [Portfolio](http://portfolio.alexrrobinson.com) -->
